@@ -1,0 +1,6 @@
+ table = collection
+
+ row => document
+
+ cell => field
+
